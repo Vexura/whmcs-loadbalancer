@@ -1,6 +1,6 @@
 {
   "name": "Vexura Load Balancer",
-  "version": "1.0.0-rc.1",
+  "version": "1.0.0-rc.2",
   "module": "vexuraloadbalancer",
   "type": "servers",
   "php": ">=8.1",
