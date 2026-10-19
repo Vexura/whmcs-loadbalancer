@@ -1,0 +1,15 @@
+{
+  "name": "Vexura Load Balancer",
+  "version": "1.0.0-rc.1",
+  "module": "vexuraloadbalancer",
+  "type": "servers",
+  "php": ">=8.1",
+  "extensions": [
+    "curl",
+    "json"
+  ],
+  "api": "https://api.vexura.eu/api/v1",
+  "installationPath": "modules/servers/vexuraloadbalancer",
+  "billing": "prepaid",
+  "requiresBackendSubscriptionFix": false
+}
